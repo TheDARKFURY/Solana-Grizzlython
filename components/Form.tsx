@@ -342,7 +342,7 @@ export const Form = () => {
               }}
               className={styles.btn}
             >
-              Transfer CPs
+              Transfer NFT
             </button>
           </>
         )}
